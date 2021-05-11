@@ -170,7 +170,7 @@ const Avinash = ()=>{
             setAngle1(data.value.positionValues[0]);
             setAngle2(data.value.positionValues[1]);
             setAngle3(data.value.positionValues[2]);
-            setAngle4(data.value.data.positionValues[3]);
+            setAngle4(data.value.positionValues[3]);
             setMessages(data.value);
            
         },
